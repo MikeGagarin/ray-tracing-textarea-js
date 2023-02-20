@@ -47,19 +47,6 @@ function colorPixel(diff) {
 }
 
 /**
- *
- * @param {Vector3} uv
- * @param {number} cols
- * @param {number} rows
- * @returns {Vector3}
- */
-function centerTheCoordinates(uv, cols, rows) {
-
-
-    return uv;
-}
-
-/**
  * @param {Vector3} a
  * @param {number} angle
  * @returns {Vector3}
